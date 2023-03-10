@@ -1,7 +1,7 @@
 git 유저 설정 (git 프로그램 설치 하고 나서 한 번만)
 
 git config --global user.name "사용자 이름"
-git config --global.user.email 사용자 이메일
+git config --global user.email 사용자 이메일
 
 폴더 감시 시작 환경 만들기 (초기화), 새로운 폴더 만들 때 또 다시 git init 해줘야함
 폴더 안에 들어가서 우클릭 후 bash 프로그램 실행
